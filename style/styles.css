@@ -1,0 +1,102 @@
+body{
+
+    font-family: 'Source Sans Pro', sans-serif 
+
+}
+
+
+h1{
+    font-family:'Dosis', sans-serif;
+}
+
+h2{
+    font-family:'Dosis', sans-serif;
+}
+
+h4{
+    font-family:'Dosis', sans-serif;
+}
+
+h5{
+    font-family:'Dosis', sans-serif;
+}
+
+.navyTXT{
+
+    color: #000324;
+
+}
+
+.navigation{
+
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+
+}
+
+
+.navy{
+    background-color: #000324;
+}
+
+
+.whiteTXT{
+
+    color: white;
+
+}
+
+.white{
+    
+    background-color: white;
+
+}
+
+.darkNavyBG{
+
+    background-color: #1A1B26;
+
+}
+
+
+
+.darkNavy{
+
+    color: #1A1B26;
+
+}
+
+
+.logo{
+
+    height: 6rem;
+    width: 10rem;
+    padding: 0 1rem;
+
+}
+
+.oceanBG{
+
+    background: #004CC7;
+
+}
+
+
+.oceanTxT{
+
+    color:#004CC7;
+
+}
+
+.headerBG{
+    width: 100%;
+    height: 700px;
+    background-image: url(../assets/header.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+}
+
